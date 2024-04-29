@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0dcacc173cc3b08d5fb2e99295f546f9",
+    "revision": "83a9c724dc52e028cbdcdb972f8f4c39",
     "url": "/chaitanya-deshmukh/index.html"
   },
   {
-    "revision": "b73ad25eeee92d515c12",
-    "url": "/chaitanya-deshmukh/static/css/main.e339e570.chunk.css"
+    "revision": "50b83cc65b1b3dc45e8d",
+    "url": "/chaitanya-deshmukh/static/css/main.53ca9df8.chunk.css"
   },
   {
-    "revision": "b32de78ab8f54a893e14",
-    "url": "/chaitanya-deshmukh/static/js/2.67125311.chunk.js"
+    "revision": "d72c44de305aff882c38",
+    "url": "/chaitanya-deshmukh/static/js/2.50da8b4f.chunk.js"
   },
   {
-    "revision": "b73ad25eeee92d515c12",
-    "url": "/chaitanya-deshmukh/static/js/main.283fe69a.chunk.js"
+    "revision": "50b83cc65b1b3dc45e8d",
+    "url": "/chaitanya-deshmukh/static/js/main.c6ac3177.chunk.js"
   },
   {
     "revision": "d05d09bc2afe33dc543c",
@@ -66,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "058eca4cbdc03a1dad9a6bb943ac7831",
     "url": "/chaitanya-deshmukh/static/media/blogs_image.058eca4c.svg"
+  },
+  {
+    "revision": "3c133f4dfcc4d0fe2885f034b6c9a74c",
+    "url": "/chaitanya-deshmukh/static/media/chaitanya_deshmukh_circle.3c133f4d.png"
   },
   {
     "revision": "cacbc42b661f39344af81c631d8d36a9",
@@ -246,6 +250,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b1db8f780ba70d4630489ec2c4450243",
     "url": "/chaitanya-deshmukh/static/media/sbjain_logo.b1db8f78.png"
+  },
+  {
+    "revision": "c6aa01305f98b881cc07388f23882a43",
+    "url": "/chaitanya-deshmukh/static/media/soql_logo.c6aa0130.png"
   },
   {
     "revision": "2c497738be3831492aeb6bdc43f19154",
