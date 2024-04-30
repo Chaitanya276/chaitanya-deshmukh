@@ -26,6 +26,7 @@ class SoftwareSkill extends React.Component {
                     </Tooltip>
                   }
                 >
+                  {logo.fontAwesomeClassname !== "" ?
                   <li className="software-skill-inline" name={logo.skillName}>
                     {logo.fontAwesomeClassname && (
                       <span
@@ -43,7 +44,28 @@ class SoftwareSkill extends React.Component {
                         alt={logo.skillName}
                       />
                     )}
-                  </li>
+                  </li> 
+                  :  <></>
+                  // <li className="software-skill-inline" name={logo.skillName}>
+                  //   {logo.fontAwesomeClassname && (
+                  //     <span
+                  //       className="iconify"
+                  //       data-icon={logo.pngLogo}
+                  //       style={logo.style}
+                  //       data-inline="false"
+                  //     ></span>
+                  //   )}
+                  //   {!logo.fontAwesomeClassname && logo.imageSrc && (
+                  //     <img
+                  //       className="skill-image"
+                  //       style={logo.style}
+                  //       src={`../assets/images/${logo.imageSrc}`}
+                  //       alt={logo.skillName}
+                  //     />
+                  //   )}
+                  // </li>
+                  }
+                  
                 </OverlayTrigger>
               );
             })}
