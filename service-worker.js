@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/chaitanya-deshmukh/precache-manifest.e68718615697606f2cda42e75312f288.js"
+  "/chaitanya-deshmukh/precache-manifest.d9b5f81dc6599b12b99521e89457267e.js"
 );
 
 self.addEventListener('message', (event) => {
