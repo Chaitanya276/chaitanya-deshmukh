@@ -2,7 +2,7 @@
   "private": true,
   "name": "masterPortfolio",
   "version": "0.1.0",
-  "homepage": "http://ChaitanyaD27.github.io/home",
+  "homepage": "https://ChaitanyaD27.github.io/chaitanya-deshmukh",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
