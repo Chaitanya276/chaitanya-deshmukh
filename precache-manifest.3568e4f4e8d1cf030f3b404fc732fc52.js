@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6b01d89e391b44bb2da75b038656f32b",
+    "revision": "9717abc458ef5f0fa4661479efe3facd",
     "url": "/chaitanya-deshmukh/index.html"
   },
   {
-    "revision": "e66b59112676351b20b7",
+    "revision": "15b0eeabae9d2d9e7f64",
     "url": "/chaitanya-deshmukh/static/css/main.657d490f.chunk.css"
   },
   {
-    "revision": "bd98a5c24b2638cc2993",
-    "url": "/chaitanya-deshmukh/static/js/2.b1740d90.chunk.js"
+    "revision": "79e69059f9c871f6b4f0",
+    "url": "/chaitanya-deshmukh/static/js/2.976a6e65.chunk.js"
   },
   {
-    "revision": "e66b59112676351b20b7",
-    "url": "/chaitanya-deshmukh/static/js/main.ec8d6c1f.chunk.js"
+    "revision": "15b0eeabae9d2d9e7f64",
+    "url": "/chaitanya-deshmukh/static/js/main.78838e69.chunk.js"
   },
   {
     "revision": "d05d09bc2afe33dc543c",
@@ -82,6 +82,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5f915405511f649dad433a6db9adbff4",
     "url": "/chaitanya-deshmukh/static/media/contactMail.5f915405.png"
+  },
+  {
+    "revision": "3a1b08051baf2eb1b9e475d970419313",
+    "url": "/chaitanya-deshmukh/static/media/cybage_logo.3a1b0805.png"
   },
   {
     "revision": "ebf35d7f33ebbd4a4c6cff7e66e21fdb",

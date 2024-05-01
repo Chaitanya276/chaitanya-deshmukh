@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/chaitanya-deshmukh/static/css/main.657d490f.chunk.css",
-    "main.js": "/chaitanya-deshmukh/static/js/main.ec8d6c1f.chunk.js",
-    "main.js.map": "/chaitanya-deshmukh/static/js/main.ec8d6c1f.chunk.js.map",
+    "main.js": "/chaitanya-deshmukh/static/js/main.78838e69.chunk.js",
+    "main.js.map": "/chaitanya-deshmukh/static/js/main.78838e69.chunk.js.map",
     "runtime-main.js": "/chaitanya-deshmukh/static/js/runtime-main.a872b0bc.js",
     "runtime-main.js.map": "/chaitanya-deshmukh/static/js/runtime-main.a872b0bc.js.map",
-    "static/js/2.b1740d90.chunk.js": "/chaitanya-deshmukh/static/js/2.b1740d90.chunk.js",
-    "static/js/2.b1740d90.chunk.js.map": "/chaitanya-deshmukh/static/js/2.b1740d90.chunk.js.map",
+    "static/js/2.976a6e65.chunk.js": "/chaitanya-deshmukh/static/js/2.976a6e65.chunk.js",
+    "static/js/2.976a6e65.chunk.js.map": "/chaitanya-deshmukh/static/js/2.976a6e65.chunk.js.map",
     "index.html": "/chaitanya-deshmukh/index.html",
-    "precache-manifest.0fc936b11a4ce524ecac108fbf51daac.js": "/chaitanya-deshmukh/precache-manifest.0fc936b11a4ce524ecac108fbf51daac.js",
+    "precache-manifest.3568e4f4e8d1cf030f3b404fc732fc52.js": "/chaitanya-deshmukh/precache-manifest.3568e4f4e8d1cf030f3b404fc732fc52.js",
     "service-worker.js": "/chaitanya-deshmukh/service-worker.js",
     "static/css/main.657d490f.chunk.css.map": "/chaitanya-deshmukh/static/css/main.657d490f.chunk.css.map",
     "static/media/index.css": "/chaitanya-deshmukh/static/media/Montserrat-Regular.ee653992.ttf",
@@ -20,6 +20,7 @@
     "static/media/cloud_infrastructure.svg": "/chaitanya-deshmukh/static/media/cloud_infrastructure.cacbc42b.svg",
     "static/media/codeInLogo.png": "/chaitanya-deshmukh/static/media/codeInLogo.fee92c18.png",
     "static/media/contactMail.png": "/chaitanya-deshmukh/static/media/contactMail.5f915405.png",
+    "static/media/cybage_logo.png": "/chaitanya-deshmukh/static/media/cybage_logo.3a1b0805.png",
     "static/media/data_science.svg": "/chaitanya-deshmukh/static/media/data_science.ebf35d7f.svg",
     "static/media/deeplearning_ai_logo.png": "/chaitanya-deshmukh/static/media/deeplearning_ai_logo.75a7107b.png",
     "static/media/developerActivity.svg": "/chaitanya-deshmukh/static/media/developerActivity.3e23ca14.svg",
@@ -57,8 +58,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a872b0bc.js",
-    "static/js/2.b1740d90.chunk.js",
+    "static/js/2.976a6e65.chunk.js",
     "static/css/main.657d490f.chunk.css",
-    "static/js/main.ec8d6c1f.chunk.js"
+    "static/js/main.78838e69.chunk.js"
   ]
 }
