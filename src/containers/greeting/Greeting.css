@@ -32,7 +32,7 @@
 
 .greeting-text {
   margin-top: 50px;
-  font-size: 70px;
+  font-size: 48px;
   line-height: 1.1;
   text-decoration: underline;
   display: inline;
@@ -40,14 +40,13 @@
 }
 .greeting-iam {
   margin-top: 50px;
-  font-size: 50px;
+  font-size: 40px;
   font-family: "Google Sans Bold";
   display: inline;
 }
 .greeting-wish {
   margin-top: 20px;
-  font-size: 50px;
-  margin-bottom: 10px;
+  font-size: 40px;
   font-family: "Google Sans Bold";
 }
 
@@ -58,10 +57,10 @@
 }
 
 .greeting-text-p {
-  font-size: 40px;
+  font-size: 15px;
   line-height: 40px;
   margin-right: 40px;
-  font-family: "Google Sans Medium";
+  font-family: "Google Sans Montserrat";
 }
 
 .greeting-image-div > * {
@@ -83,7 +82,7 @@
     justify-content: space-around;
   }
   .greeting-text {
-    font-size: 30px;
+    font-size: 20px;
     margin-top: 0px;
     text-align: center;
   }

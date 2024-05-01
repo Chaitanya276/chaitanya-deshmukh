@@ -2,9 +2,10 @@ import React from "react";
 import "./Greeting.css";
 import SocialMedia from "../../components/socialMedia/SocialMedia";
 import Button from "../../components/button/Button";
-import { greeting } from "../../portfolio";
+import { greeting, typeWriterText } from "../../portfolio";
 import { Fade } from "react-reveal";
 import FeelingProud from "./FeelingProud";
+import { TypeAnimation } from "react-type-animation";
 
 export default function Greeting(props) {
   const theme = props.theme;
@@ -14,10 +15,10 @@ export default function Greeting(props) {
         <div className="greeting-main">
           <div className="greeting-text-div">
             <div>
-              <h1 className="greeting-wish" style={{ color: "black"}}>
+              <h1 className="greeting-wish" style={{ color: "black" }}>
                 {greeting.wish}
               </h1>
-              <h1 className="greeting-iam" style={{ color: "black"}}>
+              <h1 className="greeting-iam" style={{ color: "black" }}>
                 {greeting.iam}
               </h1>
               <h1 className="greeting-text" style={{ color: theme.text }}>
@@ -32,7 +33,15 @@ export default function Greeting(props) {
                 className="greeting-text-p subTitle"
                 style={{ color: theme.secondaryText }}
               >
-                {greeting.subTitle}
+                <TypeAnimation
+
+                  sequence={typeWriterText}
+                  speed={50}
+                  repeat={Infinity}
+                  style={{ fontSize: "2em" }}
+                />
+                {/* <ReactTyped strings={greeting.subTitle}   typeSpeed={100} loop /> */}
+                {/* {greeting.subTitle} */}
               </p>
               <SocialMedia theme={theme} />
               {/* <div className="portfolio-repo-btn-div">
@@ -44,6 +53,7 @@ export default function Greeting(props) {
                   className="portfolio-repo-btn"
                 />
               </div> */}
+
               {/* <div className="button-greeting-div">
               <Button text="Contact me" href="#contact" />
               <Button text="See my resume" newTab={true} href={greeting.resumeLink} />
