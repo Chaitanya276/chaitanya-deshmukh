@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/chaitanya-deshmukh/static/css/main.53ca9df8.chunk.css",
-    "main.js": "/chaitanya-deshmukh/static/js/main.6aa7e721.chunk.js",
-    "main.js.map": "/chaitanya-deshmukh/static/js/main.6aa7e721.chunk.js.map",
+    "main.css": "/chaitanya-deshmukh/static/css/main.8b86a3cf.chunk.css",
+    "main.js": "/chaitanya-deshmukh/static/js/main.7b8f1774.chunk.js",
+    "main.js.map": "/chaitanya-deshmukh/static/js/main.7b8f1774.chunk.js.map",
     "runtime-main.js": "/chaitanya-deshmukh/static/js/runtime-main.a872b0bc.js",
     "runtime-main.js.map": "/chaitanya-deshmukh/static/js/runtime-main.a872b0bc.js.map",
     "static/js/2.50da8b4f.chunk.js": "/chaitanya-deshmukh/static/js/2.50da8b4f.chunk.js",
     "static/js/2.50da8b4f.chunk.js.map": "/chaitanya-deshmukh/static/js/2.50da8b4f.chunk.js.map",
     "index.html": "/chaitanya-deshmukh/index.html",
-    "precache-manifest.d9b5f81dc6599b12b99521e89457267e.js": "/chaitanya-deshmukh/precache-manifest.d9b5f81dc6599b12b99521e89457267e.js",
+    "precache-manifest.7e26f0c1eef3ff9696b89e41f145f165.js": "/chaitanya-deshmukh/precache-manifest.7e26f0c1eef3ff9696b89e41f145f165.js",
     "service-worker.js": "/chaitanya-deshmukh/service-worker.js",
-    "static/css/main.53ca9df8.chunk.css.map": "/chaitanya-deshmukh/static/css/main.53ca9df8.chunk.css.map",
+    "static/css/main.8b86a3cf.chunk.css.map": "/chaitanya-deshmukh/static/css/main.8b86a3cf.chunk.css.map",
     "static/media/index.css": "/chaitanya-deshmukh/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "/chaitanya-deshmukh/static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "/chaitanya-deshmukh/static/media/animated_ashutosh.eaf02c2d.png",
@@ -58,7 +58,7 @@
   "entrypoints": [
     "static/js/runtime-main.a872b0bc.js",
     "static/js/2.50da8b4f.chunk.js",
-    "static/css/main.53ca9df8.chunk.css",
-    "static/js/main.6aa7e721.chunk.js"
+    "static/css/main.8b86a3cf.chunk.css",
+    "static/js/main.7b8f1774.chunk.js"
   ]
 }
