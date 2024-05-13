@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/chaitanya-deshmukh/static/css/main.657d490f.chunk.css",
-    "main.js": "/chaitanya-deshmukh/static/js/main.5152b46f.chunk.js",
-    "main.js.map": "/chaitanya-deshmukh/static/js/main.5152b46f.chunk.js.map",
+    "main.css": "/chaitanya-deshmukh/static/css/main.40170d2e.chunk.css",
+    "main.js": "/chaitanya-deshmukh/static/js/main.a994ec8e.chunk.js",
+    "main.js.map": "/chaitanya-deshmukh/static/js/main.a994ec8e.chunk.js.map",
     "runtime-main.js": "/chaitanya-deshmukh/static/js/runtime-main.a872b0bc.js",
     "runtime-main.js.map": "/chaitanya-deshmukh/static/js/runtime-main.a872b0bc.js.map",
-    "static/js/2.4c70b845.chunk.js": "/chaitanya-deshmukh/static/js/2.4c70b845.chunk.js",
-    "static/js/2.4c70b845.chunk.js.map": "/chaitanya-deshmukh/static/js/2.4c70b845.chunk.js.map",
+    "static/js/2.5af43bef.chunk.js": "/chaitanya-deshmukh/static/js/2.5af43bef.chunk.js",
+    "static/js/2.5af43bef.chunk.js.map": "/chaitanya-deshmukh/static/js/2.5af43bef.chunk.js.map",
     "index.html": "/chaitanya-deshmukh/index.html",
-    "precache-manifest.130b01e644bfcd7a67467f8c038a8bfc.js": "/chaitanya-deshmukh/precache-manifest.130b01e644bfcd7a67467f8c038a8bfc.js",
+    "precache-manifest.6635e08860d0f7eed27d550701114eed.js": "/chaitanya-deshmukh/precache-manifest.6635e08860d0f7eed27d550701114eed.js",
     "service-worker.js": "/chaitanya-deshmukh/service-worker.js",
-    "static/css/main.657d490f.chunk.css.map": "/chaitanya-deshmukh/static/css/main.657d490f.chunk.css.map",
+    "static/css/main.40170d2e.chunk.css.map": "/chaitanya-deshmukh/static/css/main.40170d2e.chunk.css.map",
     "static/media/index.css": "/chaitanya-deshmukh/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "/chaitanya-deshmukh/static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "/chaitanya-deshmukh/static/media/animated_ashutosh.eaf02c2d.png",
     "static/media/animated_logo.svg": "/chaitanya-deshmukh/static/media/animated_logo.dcd6dee2.svg",
     "static/media/blogs_image.svg": "/chaitanya-deshmukh/static/media/blogs_image.058eca4c.svg",
     "static/media/chaitanya_deshmukh_circle.png": "/chaitanya-deshmukh/static/media/chaitanya_deshmukh_circle.903fdbb0.png",
+    "static/media/chaitanya_deshmukh_circle1.png": "/chaitanya-deshmukh/static/media/chaitanya_deshmukh_circle1.63ef6adf.png",
     "static/media/cloud_infrastructure.svg": "/chaitanya-deshmukh/static/media/cloud_infrastructure.cacbc42b.svg",
     "static/media/codeInLogo.png": "/chaitanya-deshmukh/static/media/codeInLogo.fee92c18.png",
     "static/media/contactMail.png": "/chaitanya-deshmukh/static/media/contactMail.5f915405.png",
@@ -58,8 +59,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a872b0bc.js",
-    "static/js/2.4c70b845.chunk.js",
-    "static/css/main.657d490f.chunk.css",
-    "static/js/main.5152b46f.chunk.js"
+    "static/js/2.5af43bef.chunk.js",
+    "static/css/main.40170d2e.chunk.css",
+    "static/js/main.a994ec8e.chunk.js"
   ]
 }
