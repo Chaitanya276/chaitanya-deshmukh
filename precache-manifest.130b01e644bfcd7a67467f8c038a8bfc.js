@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "19ce9d7255c4c9b1d18c923ca0c5a6c7",
+    "revision": "60b5ea37c861857da5ea073a58aa83d2",
     "url": "/chaitanya-deshmukh/index.html"
   },
   {
-    "revision": "71ac3863842f2da672af",
+    "revision": "1d5bfc4dc3a2377ce40a",
     "url": "/chaitanya-deshmukh/static/css/main.657d490f.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/chaitanya-deshmukh/static/js/2.4c70b845.chunk.js"
   },
   {
-    "revision": "71ac3863842f2da672af",
-    "url": "/chaitanya-deshmukh/static/js/main.f32bec33.chunk.js"
+    "revision": "1d5bfc4dc3a2377ce40a",
+    "url": "/chaitanya-deshmukh/static/js/main.5152b46f.chunk.js"
   },
   {
     "revision": "d05d09bc2afe33dc543c",
