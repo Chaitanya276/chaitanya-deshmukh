@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/chaitanya-deshmukh/static/css/main.657d490f.chunk.css",
-    "main.js": "/chaitanya-deshmukh/static/js/main.8bc7c710.chunk.js",
-    "main.js.map": "/chaitanya-deshmukh/static/js/main.8bc7c710.chunk.js.map",
+    "main.js": "/chaitanya-deshmukh/static/js/main.f32bec33.chunk.js",
+    "main.js.map": "/chaitanya-deshmukh/static/js/main.f32bec33.chunk.js.map",
     "runtime-main.js": "/chaitanya-deshmukh/static/js/runtime-main.a872b0bc.js",
     "runtime-main.js.map": "/chaitanya-deshmukh/static/js/runtime-main.a872b0bc.js.map",
-    "static/js/2.bf141993.chunk.js": "/chaitanya-deshmukh/static/js/2.bf141993.chunk.js",
-    "static/js/2.bf141993.chunk.js.map": "/chaitanya-deshmukh/static/js/2.bf141993.chunk.js.map",
+    "static/js/2.4c70b845.chunk.js": "/chaitanya-deshmukh/static/js/2.4c70b845.chunk.js",
+    "static/js/2.4c70b845.chunk.js.map": "/chaitanya-deshmukh/static/js/2.4c70b845.chunk.js.map",
     "index.html": "/chaitanya-deshmukh/index.html",
-    "precache-manifest.6a6ad553dbbcf114bd118bcfd3f8fe85.js": "/chaitanya-deshmukh/precache-manifest.6a6ad553dbbcf114bd118bcfd3f8fe85.js",
+    "precache-manifest.7f5c585dc9b62a09b0d642eb6c2077e0.js": "/chaitanya-deshmukh/precache-manifest.7f5c585dc9b62a09b0d642eb6c2077e0.js",
     "service-worker.js": "/chaitanya-deshmukh/service-worker.js",
     "static/css/main.657d490f.chunk.css.map": "/chaitanya-deshmukh/static/css/main.657d490f.chunk.css.map",
     "static/media/index.css": "/chaitanya-deshmukh/static/media/Montserrat-Regular.ee653992.ttf",
@@ -58,8 +58,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a872b0bc.js",
-    "static/js/2.bf141993.chunk.js",
+    "static/js/2.4c70b845.chunk.js",
     "static/css/main.657d490f.chunk.css",
-    "static/js/main.8bc7c710.chunk.js"
+    "static/js/main.f32bec33.chunk.js"
   ]
 }

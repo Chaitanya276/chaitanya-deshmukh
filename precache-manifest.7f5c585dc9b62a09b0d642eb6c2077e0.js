@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a242ae47b4d0873df19bd2345e8e633f",
+    "revision": "19ce9d7255c4c9b1d18c923ca0c5a6c7",
     "url": "/chaitanya-deshmukh/index.html"
   },
   {
-    "revision": "250325fc5cb0b1e9379b",
+    "revision": "71ac3863842f2da672af",
     "url": "/chaitanya-deshmukh/static/css/main.657d490f.chunk.css"
   },
   {
-    "revision": "dbe328edf9f719720a14",
-    "url": "/chaitanya-deshmukh/static/js/2.bf141993.chunk.js"
+    "revision": "a81aeb905849065a3f66",
+    "url": "/chaitanya-deshmukh/static/js/2.4c70b845.chunk.js"
   },
   {
-    "revision": "250325fc5cb0b1e9379b",
-    "url": "/chaitanya-deshmukh/static/js/main.8bc7c710.chunk.js"
+    "revision": "71ac3863842f2da672af",
+    "url": "/chaitanya-deshmukh/static/js/main.f32bec33.chunk.js"
   },
   {
     "revision": "d05d09bc2afe33dc543c",
