@@ -34,7 +34,6 @@ export default function Greeting(props) {
                 style={{ color: theme.secondaryText }}
               >
                 <TypeAnimation
-
                   sequence={typeWriterText}
                   speed={50}
                   repeat={Infinity}
@@ -58,6 +57,14 @@ export default function Greeting(props) {
               <Button text="Contact me" href="#contact" />
               <Button text="See my resume" newTab={true} href={greeting.resumeLink} />
             </div> */}
+            </div>
+            <div className="resume-btn-div">
+              <Button
+                text="See My Resume"
+                newTab={true}
+                href={greeting.resumeLink}
+                theme={theme}
+              />
             </div>
           </div>
           <div className="greeting-image-div">

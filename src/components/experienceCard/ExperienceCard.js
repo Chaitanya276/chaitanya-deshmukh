@@ -51,14 +51,14 @@ class ExperienceCard extends Component {
                 <div
                   className="repo-description"
                 />
-                {/* {experience.descriptions.map((sentence) => {
+                 {experience.descriptions.map((sentence) => {
                 return (
                   <p className="content-list" style={{ color: theme.text }}>
                     {sentence}
                   </p>
                 );
-              })} */}
-                {experience["description"]}
+              })} 
+                {/* {experience["description"]} */}
               </div>
 
             </div>
