@@ -33,7 +33,7 @@ const greeting = {
     "A passionate individual who always thrives to work on end to end " +
     "products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1hBqiMpOxQ1zIO3eoVawHF06Sk8YieRlP/view?usp=sharing",
+    "https://drive.google.com/file/d/1v-IeEjvsLsS7tDrNNvUgiu3_JLThaY_3/view?usp=sharing",
   githubProfile: "https://github.com/Chaitanya276",
 };
 
