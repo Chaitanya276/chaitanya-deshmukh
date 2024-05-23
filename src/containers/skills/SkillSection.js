@@ -16,7 +16,8 @@ function GetSkillSvg(props) {
   else if (props.fileName === "FullStackImg")
     return <FullStackImg theme={props.theme} />;
   else if (props.fileName === "CloudInfraImg")
-    return <CloudInfraImg theme={props.theme} />;
+    // return <CloudInfraImg theme={props.theme} />;
+    return <img src={require(`../../assests/images/android_design.png`)} alt="Android Development" />;
   return <DesignImg theme={props.theme} />;
 }
 
