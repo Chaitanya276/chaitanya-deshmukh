@@ -5,7 +5,7 @@ import { importantWords, skills } from "../../portfolio";
 import { Fade } from "react-reveal";
 import DataScienceImg from "./DataScienceImg";
 import FullStackImg from "./FullStackImg";
-import CloudInfraImg from "./CloudInfraImg";
+// import CloudInfraImg from "./CloudInfraImg";
 import DesignImg from "./DesignImg";
 // import { ReactTyped } from "react-typed";
 
@@ -51,7 +51,7 @@ class SkillSection extends Component {
                 <Fade right duration={2000}>
                   <div>
                     {skill.skills.map((skillSentence, i) => {
-                      const ab  = skillSentence.split('/\s+/');
+                      const ab  = skillSentence.split('/s+/');
                       return (                     <p
                           key={i}
                           className="subTitle skills-text"
@@ -76,18 +76,4 @@ class SkillSection extends Component {
   
 }
 
-function BoldWords( sentence ) {
-  // Split the sentence into words
-  const words = sentence.split(/\s+/);
-
-  return (
-    <p>
-      {words.map((word, index) => {
-        // Check if the word exists in the array
-        const isBold = importantWords.includes(word.toLowerCase());
-        ;return isBold ? <strong key={index}>{word}</strong> : <span key={index}>{word}</span>
-      })}
-    </p>
-  );
-}
 export default SkillSection;

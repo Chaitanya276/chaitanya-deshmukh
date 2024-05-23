@@ -66,7 +66,7 @@ const skills = {
       skills: [
         "⚡ Proficient in TRIGGERS, FLOWS, APPROVAL PROCESS enhancing the system's robustness and efficiency.",
         "⚡ Expertise in sharing rules and security settings for maintaining sensitive information, data integrity and confidentiality.",
-        "⚡ Capable of integrating platform events, CDC,API to facilitate system interoperability and responsiveness.",
+        "⚡ Capable of integrating Platform Events, Change Data Capture, API to facilitate system interoperability and responsiveness.",
         "⚡ Skilled in integrating Salesforce with external systems and applications using APIs and middleware, enabling seamless data exchange and process automation.",
       ],
       softwareSkills: [
