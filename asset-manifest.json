@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/chaitanya-deshmukh/static/css/main.40170d2e.chunk.css",
-    "main.js": "/chaitanya-deshmukh/static/js/main.3a1c878d.chunk.js",
-    "main.js.map": "/chaitanya-deshmukh/static/js/main.3a1c878d.chunk.js.map",
+    "main.js": "/chaitanya-deshmukh/static/js/main.7d1036b7.chunk.js",
+    "main.js.map": "/chaitanya-deshmukh/static/js/main.7d1036b7.chunk.js.map",
     "runtime-main.js": "/chaitanya-deshmukh/static/js/runtime-main.a872b0bc.js",
     "runtime-main.js.map": "/chaitanya-deshmukh/static/js/runtime-main.a872b0bc.js.map",
-    "static/js/2.5af43bef.chunk.js": "/chaitanya-deshmukh/static/js/2.5af43bef.chunk.js",
-    "static/js/2.5af43bef.chunk.js.map": "/chaitanya-deshmukh/static/js/2.5af43bef.chunk.js.map",
+    "static/js/2.81a64e38.chunk.js": "/chaitanya-deshmukh/static/js/2.81a64e38.chunk.js",
+    "static/js/2.81a64e38.chunk.js.map": "/chaitanya-deshmukh/static/js/2.81a64e38.chunk.js.map",
     "index.html": "/chaitanya-deshmukh/index.html",
-    "precache-manifest.b960ab689917870b5959a33bd699adfa.js": "/chaitanya-deshmukh/precache-manifest.b960ab689917870b5959a33bd699adfa.js",
+    "precache-manifest.2c0201b85bf9699ada44878f0bc4dcfd.js": "/chaitanya-deshmukh/precache-manifest.2c0201b85bf9699ada44878f0bc4dcfd.js",
     "service-worker.js": "/chaitanya-deshmukh/service-worker.js",
     "static/css/main.40170d2e.chunk.css.map": "/chaitanya-deshmukh/static/css/main.40170d2e.chunk.css.map",
     "static/media/index.css": "/chaitanya-deshmukh/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "/chaitanya-deshmukh/static/media/address_image.16559172.svg",
+    "static/media/android_design.png": "/chaitanya-deshmukh/static/media/android_design.278477c0.png",
     "static/media/animated_ashutosh.png": "/chaitanya-deshmukh/static/media/animated_ashutosh.eaf02c2d.png",
     "static/media/animated_logo.svg": "/chaitanya-deshmukh/static/media/animated_logo.dcd6dee2.svg",
     "static/media/blogs_image.svg": "/chaitanya-deshmukh/static/media/blogs_image.058eca4c.svg",
@@ -59,8 +60,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a872b0bc.js",
-    "static/js/2.5af43bef.chunk.js",
+    "static/js/2.81a64e38.chunk.js",
     "static/css/main.40170d2e.chunk.css",
-    "static/js/main.3a1c878d.chunk.js"
+    "static/js/main.7d1036b7.chunk.js"
   ]
 }

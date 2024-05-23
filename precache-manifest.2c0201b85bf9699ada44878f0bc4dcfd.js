@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a3ceebf7034c85feb8626d733f6e18b4",
+    "revision": "231108951353aeddb592f9561cf54d9a",
     "url": "/chaitanya-deshmukh/index.html"
   },
   {
-    "revision": "32e56159d3d14c9fd42d",
+    "revision": "df2132a924c8cb6dcbc9",
     "url": "/chaitanya-deshmukh/static/css/main.40170d2e.chunk.css"
   },
   {
-    "revision": "0b2baa662f6debd163c8",
-    "url": "/chaitanya-deshmukh/static/js/2.5af43bef.chunk.js"
+    "revision": "a41102adc22c340f059c",
+    "url": "/chaitanya-deshmukh/static/js/2.81a64e38.chunk.js"
   },
   {
-    "revision": "32e56159d3d14c9fd42d",
-    "url": "/chaitanya-deshmukh/static/js/main.3a1c878d.chunk.js"
+    "revision": "df2132a924c8cb6dcbc9",
+    "url": "/chaitanya-deshmukh/static/js/main.7d1036b7.chunk.js"
   },
   {
     "revision": "d05d09bc2afe33dc543c",
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "16559172ca1d4d552390b48f19e102ba",
     "url": "/chaitanya-deshmukh/static/media/address_image.16559172.svg"
+  },
+  {
+    "revision": "278477c05d22701fa2742d1966845a59",
+    "url": "/chaitanya-deshmukh/static/media/android_design.278477c0.png"
   },
   {
     "revision": "eaf02c2d0158b6b4b8c2a0a0cf830a04",
