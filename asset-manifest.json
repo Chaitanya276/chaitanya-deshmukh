@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/chaitanya-deshmukh/static/css/main.40170d2e.chunk.css",
-    "main.js": "/chaitanya-deshmukh/static/js/main.cdbe208c.chunk.js",
-    "main.js.map": "/chaitanya-deshmukh/static/js/main.cdbe208c.chunk.js.map",
+    "main.js": "/chaitanya-deshmukh/static/js/main.a6914ee8.chunk.js",
+    "main.js.map": "/chaitanya-deshmukh/static/js/main.a6914ee8.chunk.js.map",
     "runtime-main.js": "/chaitanya-deshmukh/static/js/runtime-main.a872b0bc.js",
     "runtime-main.js.map": "/chaitanya-deshmukh/static/js/runtime-main.a872b0bc.js.map",
     "static/js/2.81a64e38.chunk.js": "/chaitanya-deshmukh/static/js/2.81a64e38.chunk.js",
     "static/js/2.81a64e38.chunk.js.map": "/chaitanya-deshmukh/static/js/2.81a64e38.chunk.js.map",
     "index.html": "/chaitanya-deshmukh/index.html",
-    "precache-manifest.48096c3c57b68d4bede59360f4d15013.js": "/chaitanya-deshmukh/precache-manifest.48096c3c57b68d4bede59360f4d15013.js",
+    "precache-manifest.58dc1f8dbc4ea0b99e8ebddb5738af43.js": "/chaitanya-deshmukh/precache-manifest.58dc1f8dbc4ea0b99e8ebddb5738af43.js",
     "service-worker.js": "/chaitanya-deshmukh/service-worker.js",
     "static/css/main.40170d2e.chunk.css.map": "/chaitanya-deshmukh/static/css/main.40170d2e.chunk.css.map",
     "static/media/index.css": "/chaitanya-deshmukh/static/media/Montserrat-Regular.ee653992.ttf",
@@ -62,6 +62,6 @@
     "static/js/runtime-main.a872b0bc.js",
     "static/js/2.81a64e38.chunk.js",
     "static/css/main.40170d2e.chunk.css",
-    "static/js/main.cdbe208c.chunk.js"
+    "static/js/main.a6914ee8.chunk.js"
   ]
 }
