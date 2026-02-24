@@ -1,6 +1,5 @@
-
 const settings = {
-  isSplash: false, 
+  isSplash: false,
 };
 
 const seo = {
@@ -33,7 +32,7 @@ const greeting = {
     "A passionate individual who always thrives to work on end to end " +
     "products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1v-IeEjvsLsS7tDrNNvUgiu3_JLThaY_3/view?usp=sharing",
+    "https://drive.google.com/file/d/1_FjzrE1NOrfguxOQlU2fIDeP1Km_1ugJ/view?usp=sharing",
   githubProfile: "https://github.com/Chaitanya276",
 };
 
@@ -41,20 +40,20 @@ const socialMediaLinks = [
   {
     name: "Github",
     link: "https://github.com/Chaitanya276",
-    fontAwesomeIcon: "fa-github", 
-    backgroundColor: "#181717", 
+    fontAwesomeIcon: "fa-github",
+    backgroundColor: "#181717",
   },
   {
     name: "LinkedIn",
     link: "https://www.linkedin.com/in/chaitanya-deshmukh-b7aa72164/",
-    fontAwesomeIcon: "fa-linkedin-in", 
-    backgroundColor: "#0077B5", 
+    fontAwesomeIcon: "fa-linkedin-in",
+    backgroundColor: "#0077B5",
   },
   {
     name: "Gmail",
     link: "mailto:chaitanyadeshmukh321@gmail.com",
-    fontAwesomeIcon: "fa-google", 
-    backgroundColor: "#D14836", 
+    fontAwesomeIcon: "fa-google",
+    backgroundColor: "#D14836",
   },
 ];
 const importantWords = ["sharing", "rules", "security settings"];
@@ -242,9 +241,7 @@ const skills = {
 
 // Education Page
 const competitiveSites = {
-  competitiveSites: [
-  
-  ],
+  competitiveSites: [],
 };
 
 const degrees = {
@@ -257,9 +254,9 @@ const degrees = {
       duration: "2018 - 2022",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, etc.",
-        "⚡ Apart from this, I have done courses on  Java, Gen AI, land earnt Android Development, HTML, CSS, Basics of JS, etc.",
+        "⚡ Apart from this, I have done courses on  Java, Gen AI, and learnt Android Development, HTML, CSS, Basics of JS, etc.",
         "⚡ Our team got qalified for the Smart India Hackathod in the 2nd year.",
-        "⚡ I spearheaded the forum committee of CSE branch by working as a Vice-President, and served as a mentor next year.",
+        "⚡ I spearheaded the forum committee of CSE branch by serving as a Vice-President, and served as a mentor next year.",
       ],
       website_link: "https://www.sbjit.edu.in/",
     },
@@ -370,8 +367,7 @@ const publicationsHeader = {
 };
 
 const publications = {
-  data: [
-  ],
+  data: [],
 };
 
 // Contact Page
@@ -382,8 +378,7 @@ const contactPageData = {
     // description:
     //   "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
   },
-  blogSection: {
-  },
+  blogSection: {},
   addressSection: {
     title: "Address",
     subtitle: "Nagpur, Maharashtra, India",
